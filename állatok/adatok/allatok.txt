@@ -1,0 +1,14 @@
+nev,faj,eletkor,szorzet_szine
+Bodri,kutya,5,barna
+Cirmi,macska,3,cirmos
+Max,kutya,2,fekete
+Luna,macska,4,fehér
+Veréb,madar,1,
+Béka,keteltu,2,
+Gyík,hullo,3,
+Csibe,madar,1,
+Tóni,keteltu,4,
+Kobra,hullo,6,
+Frici,kutya,8,foltos
+Morzsi,kutya,1,világosbarna
+Pötyi,macska,2,foltos
